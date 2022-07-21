@@ -1,0 +1,19 @@
+#children-table {
+    width: 80%;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 2px solid red;
+}
+
+#children-th {
+    background-color: none;
+    height: 50px;
+}
+
+#children-subtitle {
+    text-align: center;
+}

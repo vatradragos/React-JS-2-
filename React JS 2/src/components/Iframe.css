@@ -1,0 +1,15 @@
+.iframe {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 50px;
+    padding: 10px 10px;
+}
+
+iframe {
+    width: 95%;
+    height: 1000px;
+    border: none;
+}
